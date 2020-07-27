@@ -26,5 +26,13 @@
         <item name="android:src">@drawable/decrement</item>
         <item name="android:contentDescription">@string/minus_button_description</item>
     </style>
+    
+    <style name="Score_Text">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Headline</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
 
 </resources>
